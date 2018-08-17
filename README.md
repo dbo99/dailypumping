@@ -1,3 +1,3 @@
-# dailypumping
+dailypumping
 
-# want to say BanksJonesRidges is main script, need to revisit..
+want to say BanksJonesRidges is main script, need to revisit..
